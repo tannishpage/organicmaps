@@ -407,8 +407,6 @@
 
 "downloader_loading_ios" = "Cargando";
 
-"key_information_title" = "Información clave";
-
 /* Autoupdate dialog on start */
 "whats_new_auto_update_title" = "Debe actualizar sus mapas descargados";
 
